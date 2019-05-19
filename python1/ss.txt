@@ -1,0 +1,5 @@
+name,age,sex,
+jj,23,woman,
+ll,22,man,
+kk,21,man,
+yy,20,woman,

@@ -1,0 +1,12 @@
+---
+#三个‘-’表示文件的开头
+#‘#’代表注释
+#---
+# 三方登录
+three:
+  wx_id: com.qk.butterfly:id/v_login_wx  # 微信
+  wb_id: com.qk.butterfly:id/v_login_wb  # 微博
+  qq_id: com.qk.butterfly:id/v_login_qq  # qq
+  pd_id: com.qk.butterfly:id/v_login_pwd  # 密码
+
+TextView_class: android.widget.TextView  # 文本
